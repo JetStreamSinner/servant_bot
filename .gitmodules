@@ -1,0 +1,9 @@
+[submodule "servant_bot_backend"]
+	path = servant_bot_backend
+	url = git@github.com:JetStreamSinner/servant_bot_backend.git
+[submodule "servant_bot_frontend"]
+	path = servant_bot_frontend
+	url = git@github.com:JetStreamSinner/servant_bot_frontend.git
+[submodule "services/image_scaling_service"]
+	path = services/image_scaling_service
+	url = git@github.com:JetStreamSinner/image_scaling_service.git
