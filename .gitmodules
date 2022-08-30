@@ -7,3 +7,9 @@
 [submodule "services/image_scaling_service"]
 	path = services/image_scaling_service
 	url = git@github.com:JetStreamSinner/image_scaling_service.git
+[submodule "utils_bot_backend"]
+	path = utils_bot_backend
+	url = git@github.com:JetStreamSinner/utils_bot_backend.git
+[submodule "utils_bot_frontend"]
+	path = utils_bot_frontend
+	url = git@github.com:JetStreamSinner/utils_bot_frontend.git
